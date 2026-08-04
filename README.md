@@ -1,4 +1,4 @@
-# https-github.com-Vikramjeetbarman-LEETCODE_POTD
+#LEETCODE_POTD
 A collection of LeetCode question (POTD);
 
 <!---LeetCode Topics Start-->
