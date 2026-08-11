@@ -7,6 +7,7 @@ A collection of LeetCode question (POTD);
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/1140-stone-game-ii) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -17,6 +18,7 @@ A collection of LeetCode question (POTD);
 ## Sorting
 |  |
 | ------- |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
