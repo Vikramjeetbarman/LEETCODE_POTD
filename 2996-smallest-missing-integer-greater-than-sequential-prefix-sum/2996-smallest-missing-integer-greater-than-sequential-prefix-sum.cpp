@@ -14,7 +14,7 @@ public:
                 break;
             }
         }
-        maxsum = max(sum, maxsum);
+        maxsum = max(sum, maxsum); //finding
         while (std::find(nums.begin(), nums.end(), maxsum) != nums.end()) {
             maxsum++;
         }
