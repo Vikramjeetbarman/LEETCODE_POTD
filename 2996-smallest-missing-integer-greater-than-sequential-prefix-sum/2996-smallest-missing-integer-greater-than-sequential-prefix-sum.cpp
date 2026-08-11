@@ -15,17 +15,9 @@ public:
             }
         }
         maxsum = max(sum, maxsum);
-        bool flag=true;
-        while(flag){
-            auto it = std::find(nums.begin(), nums.end(), maxsum);
-           if(it != nums.end()) {
-              maxsum++;
-              
-            }
-           else{
-          return maxsum;
-         }
+        while (std::find(nums.begin(), nums.end(), maxsum) != nums.end()) {
+            maxsum++;
         }
-        return 0;
+        return maxsum;
     }
 };
