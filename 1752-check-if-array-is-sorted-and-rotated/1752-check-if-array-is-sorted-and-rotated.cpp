@@ -10,6 +10,7 @@ public:
             else if(arr[i]>arr[i+1]){
             count++;
             }
+            // simply we can also use arr[i]>arr[(i+1)%n] instead of manually checking the last element with first as for circular
             
             if(count>1 ) return false;
         }
