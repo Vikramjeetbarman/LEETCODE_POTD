@@ -10,6 +10,7 @@ A collection of LeetCode question (POTD);
 | [0347-top-k-frequent-elements](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0658-find-k-closest-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/1386-cinema-seat-allocation) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -45,6 +46,7 @@ A collection of LeetCode question (POTD);
 | [0347-top-k-frequent-elements](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0658-find-k-closest-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0973-k-closest-points-to-origin) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -64,6 +66,7 @@ A collection of LeetCode question (POTD);
 ## Math
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/1563-stone-game-v) |
@@ -189,6 +192,7 @@ A collection of LeetCode question (POTD);
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -196,11 +200,13 @@ A collection of LeetCode question (POTD);
 | [0347-top-k-frequent-elements](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0658-find-k-closest-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
 | ------- |
@@ -209,4 +215,12 @@ A collection of LeetCode question (POTD);
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
