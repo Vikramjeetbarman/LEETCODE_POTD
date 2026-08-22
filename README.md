@@ -9,6 +9,7 @@ A collection of LeetCode question (POTD);
 | [0215-kth-largest-element-in-an-array](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0658-find-k-closest-elements) |
 | [1140-stone-game-ii](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/1386-cinema-seat-allocation) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -43,6 +44,7 @@ A collection of LeetCode question (POTD);
 | [0215-kth-largest-element-in-an-array](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0658-find-k-closest-elements) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -100,6 +102,7 @@ A collection of LeetCode question (POTD);
 ## Two Pointers
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0658-find-k-closest-elements) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -143,6 +146,7 @@ A collection of LeetCode question (POTD);
 ## Sliding Window
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0658-find-k-closest-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
@@ -174,6 +178,7 @@ A collection of LeetCode question (POTD);
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0658-find-k-closest-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
@@ -190,6 +195,7 @@ A collection of LeetCode question (POTD);
 | [0215-kth-largest-element-in-an-array](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0658-find-k-closest-elements) |
 ## Quickselect
 |  |
 | ------- |
