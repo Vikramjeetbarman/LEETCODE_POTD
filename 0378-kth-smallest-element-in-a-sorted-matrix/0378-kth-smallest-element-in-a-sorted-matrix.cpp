@@ -1,27 +1,24 @@
 class Solution {
 public:
     int kthSmallest(vector<vector<int>>& matrix, int k) {
-          priority_queue<pair<int,pair<int,int>>,vector<pair<int,pair<int,int>>>,greater<pair<int,pair<int,int>>>> pq;
-          int ans=0;
-          int n=matrix.size();
-          for(int i=0;i<n;i++){
-             pq.push({matrix[i][0],{i,0}});
-
-          }
-          while(k--){
-            auto cur=pq.top();
-            pq.pop();
-            int value=cur.first;
-            int row=cur.second.first;
-            int col=cur.second.second;
-    
-            if(col+1<n){
-                pq.push({matrix[row][col+1],{row,col+1}});
-   
-                
+        int n = matrix.size();
+        int low = matrix[0][0];
+        int high = matrix[n-1][n-1];
+        while(low < high) {
+            int mid = low + (high - low) / 2;
+            int count = 0;
+            for(int i = 0; i < n; i++) {
+                int j = n - 1;
+                while(j >= 0 && matrix[i][j] > mid) {
+                    j--;
+                }
+                count += (j + 1);
             }
-            if(k==0) return value;
-          }
-          return -1;
+            if(count < k)
+                low = mid + 1;
+            else
+                high = mid;
+        }
+        return low;
     }
 };
