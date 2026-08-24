@@ -86,6 +86,7 @@ A collection of LeetCode question (POTD);
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0179-largest-number) |
 | [1927-sum-game](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -113,6 +114,7 @@ A collection of LeetCode question (POTD);
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0125-valid-palindrome) |
 | [0658-find-k-closest-elements](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0658-find-k-closest-elements) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
