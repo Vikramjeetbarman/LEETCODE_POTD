@@ -20,7 +20,7 @@ public:
                  pq.pop();
                  quotient++;
              }
-             else if(pq.top()<quotient*k) pq.pop();
+             else if(pq.top()<quotient*k) pq.pop(); // to remove duplicate;
              else return quotient*k;
         }
         return quotient*k;
