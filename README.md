@@ -93,6 +93,7 @@ A collection of LeetCode question (POTD);
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode question (POTD);
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Backtracking
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode question (POTD);
 | [0125-valid-palindrome](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0125-valid-palindrome) |
 | [0658-find-k-closest-elements](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0658-find-k-closest-elements) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
