@@ -3,7 +3,7 @@ public:
     int minMoves(vector<string>& grid, int energy) {
         int n = grid.size(), m = grid[0].size();
         vector<vector<int>> litterIdx(n,vector<int>(m,-1));
-        int lc = 0;
+        int lc=0;
         int si = -1, sj = -1;
         for(int i=0;i<n;i++)
         {
