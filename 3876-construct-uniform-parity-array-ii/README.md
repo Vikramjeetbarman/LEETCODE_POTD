@@ -6,7 +6,7 @@
 
 <ul>
 	<li><code>nums2[i] = nums1[i]</code>​​​​​​​</li>
-	<li><code>nums2[i] = nums1[i] - nums1[j]</code>, for an index <code>j != i</code>, such that <code>nums1[i] - nums1[j] &gt;= 1</code></li>
+	<li><code>nums2[i] = nums1[i]-nums1[j]</code>, for an index <code>j != i</code>, such that <code>nums1[i] - nums1[j] &gt;= 1</code></li>
 </ul>
 
 <p>Return <code>true</code> if it is possible to construct such an array, otherwise return <code>false</code>.</p>
