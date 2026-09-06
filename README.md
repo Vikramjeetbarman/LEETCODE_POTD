@@ -109,6 +109,7 @@ A collection of LeetCode question (POTD);
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0242-valid-anagram) |
@@ -150,6 +151,7 @@ A collection of LeetCode question (POTD);
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0115-distinct-subsequences) |
 | [1140-stone-game-ii](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/1563-stone-game-v) |
