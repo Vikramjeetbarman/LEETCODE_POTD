@@ -93,6 +93,7 @@ A collection of LeetCode question (POTD);
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/1510-stone-game-iv) |
@@ -289,6 +290,7 @@ A collection of LeetCode question (POTD);
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
