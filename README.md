@@ -107,6 +107,7 @@ A collection of LeetCode question (POTD);
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0171-excel-sheet-column-number) |
 | [0836-rectangle-overlap](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/1140-stone-game-ii) |
@@ -140,6 +141,7 @@ A collection of LeetCode question (POTD);
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0242-valid-anagram) |
 | [0940-distinct-subsequences-ii](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0940-distinct-subsequences-ii) |
