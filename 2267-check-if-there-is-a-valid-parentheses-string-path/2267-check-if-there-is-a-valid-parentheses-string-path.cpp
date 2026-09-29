@@ -1,5 +1,6 @@
  class Solution {
 public:
+    //dp+bitset
     bool hasValidPath(vector<vector<char>>& grid) {
         int m=grid.size(), n=grid[0].size();
         int lim=(m+n)>>1;
