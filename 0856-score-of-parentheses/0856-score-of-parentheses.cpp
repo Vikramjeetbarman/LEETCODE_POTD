@@ -1,23 +1,20 @@
 class Solution {
 public:
-    int scoreOfParentheses(string s){
+    int scoreOfParentheses(string s) {
         int n=s.size();
         int result=0;
-        int count2=0;
-        stack<char> st;
-        for(int i=0 ; i<n ; i++){
+        int count=0;
+        for(int i=0;i<n;i++){
             if(s[i]=='('){
-                count2++;
+                count++;
             }
             else{
-                count2--;
+                count--;
                 if(s[i-1]=='('){
-                   result+=pow(2,count2);
+                result+=pow(2,count);
                 }
             }
-            
         }
         return result;
-
     }
 };
