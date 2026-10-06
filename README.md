@@ -108,6 +108,7 @@ A collection of LeetCode question (POTD);
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0007-reverse-integer) |
 | [0171-excel-sheet-column-number](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0171-excel-sheet-column-number) |
 | [0836-rectangle-overlap](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Vikramjeetbarman/https-github.com-Vikramjeetbarman-LEETCODE_POTD/tree/master/0973-k-closest-points-to-origin) |
