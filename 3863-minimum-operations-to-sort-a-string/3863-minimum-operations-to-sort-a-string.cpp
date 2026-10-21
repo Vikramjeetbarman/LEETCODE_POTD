@@ -1,10 +1,25 @@
 class Solution {
 public:
-    int minOperations(string s) {
-        if (is_sorted(s.begin(), s.end())) return 0;  
-        if (s.size() == 2) return -1; 
-        auto [lo, hi] = minmax_element(s.begin() + 1, s.end() - 1); 
-        if (s[0] <= min(*lo, s.back()) || max(s[0], *hi) <= s.back()) return 1; 
-        return s.back() < *lo && *hi < s[0] ? 3 : 2; 
+    int minOperations(auto& s) {
+        int n = s.length();
+        char mn = s[0], mx = s[0];
+        bool isSorted = 1;
+
+        for (int i = 1; i < n; i++) {
+            if (s[i] < s[i - 1]) isSorted = 0;
+            mn = min(mn, s[i]);
+            mx = max(mx, s[i]);
+        }
+
+        if (isSorted) return 0;
+        if (n == 2) return -1;
+        if (s.front() == mn || s.back() == mx)
+            return 1;
+
+        for (int i = 1; i < n - 1; i++)
+            if (s[i] == mn || s[i] == mx)
+                return 2;
+
+        return 3;
     }
 };
