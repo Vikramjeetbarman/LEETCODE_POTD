@@ -1,8 +1,20 @@
 class Solution {
 public:
     int numOfSubarrays(vector<int>& arr) {
-        long long odd = ranges::count_if(arr, [sum = 0](int x) mutable { return (sum += x) & 1; });
-        long long even = arr.size() + 1 - odd; 
-        return odd * even % 1'000'000'007;
+        const int MOD = 1e9 + 7;
+
+        long long sum = 0;
+        long long odd = 0;
+        long long even = 1; 
+        for (int x : arr) {
+            sum += x;
+
+            if (sum % 2 == 0)
+                even++;
+            else
+                odd++;
+        }
+
+        return (odd * even) % MOD;
     }
 };
