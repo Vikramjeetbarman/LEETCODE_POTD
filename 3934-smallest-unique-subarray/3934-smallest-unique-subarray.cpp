@@ -46,16 +46,17 @@ class Solution {
 
 public:
     int smallestUniqueSubarray(vector<int>& v) {
-        int n = v.size();
+        int n=v.size();
         int s=1,e=n;
-        int ret = n;
+        int ret=n;
         while(s<e){
-            int m = s+(e-s)/2;
+            int m=s+(e-s)/2;
             if(check(v,m)){
-                s = m+1;
-            }else{
-                e = m;
-                ret = min(ret,m);
+                s=m+1;
+            }
+            else{
+                e=m;
+                ret=min(ret,m);
             }
         }
         return ret;
